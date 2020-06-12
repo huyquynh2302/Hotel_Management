@@ -44,11 +44,5 @@
     <Compile Include="BUS_DangKi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\DAL_Hotel\DAL_Hotel.csproj">
-      <Project>{eccbe148-ce5b-45be-9a7f-be0c68511246}</Project>
-      <Name>DAL_Hotel</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
