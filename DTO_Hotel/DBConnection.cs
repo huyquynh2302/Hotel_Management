@@ -15,7 +15,7 @@ namespace DTO_Hotel
         protected string dataSource = "";
         protected string Source = "";
 
-        protected Dictionary<string,string>[] queryParams = new Dictionary<string,string>[]();
+        
 
         
         public DBConnection()

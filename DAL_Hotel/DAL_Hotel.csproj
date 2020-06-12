@@ -45,11 +45,5 @@
     <Compile Include="DBConnect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\DTO_Hotel\DTO_Hotel.csproj">
-      <Project>{ac3e7d43-b3a4-4b4e-9d67-73dd681af1cd}</Project>
-      <Name>DTO_Hotel</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

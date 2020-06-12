@@ -8,3 +8,7 @@ C:\Users\Admin\source\repos\Hotel_Management\DTO_Hotel\obj\Debug\DTO_Hotel.cspro
 C:\Users\Admin\source\repos\Hotel_Management\DTO_Hotel\obj\Debug\DTO_Hotel.dll
 C:\Users\Admin\source\repos\Hotel_Management\DTO_Hotel\obj\Debug\DTO_Hotel.pdb
 >>>>>>> 61d66a5827a010e0fb5d9c4dbf7a94daa0d029de
+C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\DTO_Hotel\obj\Debug\DTO_Hotel.dll
+C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\DTO_Hotel\obj\Debug\DTO_Hotel.pdb
+C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\DTO_Hotel\bin\Debug\DTO_Hotel.dll
+C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\DTO_Hotel\bin\Debug\DTO_Hotel.pdb

@@ -49,10 +49,6 @@
       <Project>{eccbe148-ce5b-45be-9a7f-be0c68511246}</Project>
       <Name>DAL_Hotel</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DTO_Hotel\DTO_Hotel.csproj">
-      <Project>{ac3e7d43-b3a4-4b4e-9d67-73dd681af1cd}</Project>
-      <Name>DTO_Hotel</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

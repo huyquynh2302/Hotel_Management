@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS_Hotel", "BUS_Hotel\BUS_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_Hotel", "DAL_Hotel\DAL_Hotel.csproj", "{ECCBE148-CE5B-45BE-9A7F-BE0C68511246}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO_Hotel", "DTO_Hotel\DTO_Hotel.csproj", "{AC3E7D43-B3A4-4B4E-9D67-73DD681AF1CD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{ECCBE148-CE5B-45BE-9A7F-BE0C68511246}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECCBE148-CE5B-45BE-9A7F-BE0C68511246}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECCBE148-CE5B-45BE-9A7F-BE0C68511246}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC3E7D43-B3A4-4B4E-9D67-73DD681AF1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC3E7D43-B3A4-4B4E-9D67-73DD681AF1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC3E7D43-B3A4-4B4E-9D67-73DD681AF1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC3E7D43-B3A4-4B4E-9D67-73DD681AF1CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
