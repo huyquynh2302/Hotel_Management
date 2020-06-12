@@ -1,0 +1,2 @@
+C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\DTO_Hotel\obj\Debug\DTO_Hotel.csprojAssemblyReference.cache
+C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\DTO_Hotel\obj\Debug\DTO_Hotel.csproj.CoreCompileInputs.cache

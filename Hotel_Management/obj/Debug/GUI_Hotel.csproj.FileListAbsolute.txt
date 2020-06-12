@@ -1,0 +1,4 @@
+C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\Hotel_Management\obj\Debug\GUI_Hotel.csprojAssemblyReference.cache
+C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\Hotel_Management\obj\Debug\Hotel_Management.Properties.Resources.resources
+C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\Hotel_Management\obj\Debug\GUI_Hotel.csproj.GenerateResource.cache
+C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\Hotel_Management\obj\Debug\GUI_Hotel.csproj.CoreCompileInputs.cache
