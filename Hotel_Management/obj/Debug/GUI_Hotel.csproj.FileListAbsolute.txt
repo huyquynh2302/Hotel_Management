@@ -1,4 +1,24 @@
+<<<<<<< HEAD
 C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\Hotel_Management\obj\Debug\GUI_Hotel.csprojAssemblyReference.cache
 C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\Hotel_Management\obj\Debug\Hotel_Management.Properties.Resources.resources
 C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\Hotel_Management\obj\Debug\GUI_Hotel.csproj.GenerateResource.cache
 C:\Users\Tindz\Desktop\DoAnNMCNPM\Hotel_Management\Hotel_Management\obj\Debug\GUI_Hotel.csproj.CoreCompileInputs.cache
+=======
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\bin\Debug\Hotel_Management.exe.config
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\bin\Debug\Hotel_Management.exe
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\bin\Debug\Hotel_Management.pdb
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\bin\Debug\BUS_Hotel.dll
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\bin\Debug\DTO_Hotel.dll
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\bin\Debug\DAL_Hotel.dll
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\bin\Debug\BUS_Hotel.pdb
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\bin\Debug\DTO_Hotel.pdb
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\bin\Debug\DAL_Hotel.pdb
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\obj\Debug\GUI_Hotel.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\obj\Debug\Hotel_Management.Properties.Resources.resources
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\obj\Debug\GUI_Hotel.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\obj\Debug\GUI_Hotel.csproj.CopyComplete
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\obj\Debug\Hotel_Management.exe
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\obj\Debug\Hotel_Management.pdb
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\obj\Debug\Hotel_Management.GUI_DangKi.resources
+C:\Users\Admin\source\repos\Hotel_Management\Hotel_Management\obj\Debug\Hotel_Management.GUI_DangNhap.resources
+>>>>>>> 61d66a5827a010e0fb5d9c4dbf7a94daa0d029de

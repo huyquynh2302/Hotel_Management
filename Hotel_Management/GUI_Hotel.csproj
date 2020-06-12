@@ -52,8 +52,26 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI_DangKi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_DangKi.Designer.cs">
+      <DependentUpon>GUI_DangKi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_DangNhap.Designer.cs">
+      <DependentUpon>GUI_DangNhap.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI_DangKi.resx">
+      <DependentUpon>GUI_DangKi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_DangNhap.resx">
+      <DependentUpon>GUI_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
